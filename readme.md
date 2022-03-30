@@ -30,3 +30,5 @@ To install all the dependencies:
 
 Make sure you have Python installed, if yes, then inside terminal/command prompt at the project location, run:
 `streamlit run main.py`
+
+## IN THE PROGRESS OF DEPLOYING IT ON HEROKU
