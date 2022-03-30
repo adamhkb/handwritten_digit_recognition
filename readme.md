@@ -2,7 +2,7 @@
 
 I developed web application that uses a trained models (e.g. CNN) to classify digits drawn by users.
 
-<img src="/src/hdr.png" width="600" height="600">
+<img src="/src/hdr.png" width="800" height="600">
 
 ## Python Packages 🐍📦
 - Python = A high-level, general-purpose programming language.
