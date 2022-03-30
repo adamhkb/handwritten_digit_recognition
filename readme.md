@@ -22,6 +22,8 @@ To install all the dependencies:
 
 `pip install -r requirements.txt`
 
+(May take a few minutes)
+
 ## How to use
 
 Make sure you have Python installed, if yes, then inside terminal/command prompt at the project location, run:
